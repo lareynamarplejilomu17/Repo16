@@ -14986,11 +14986,11 @@ function JA() {
      "bg-violet rounded-5px overflow-hidden pb-5 mb-4 max-w-[900px] mt-6 boxshadow",
     children: [
      L.jsx("img", {
-      src: "/PrivacyCenter-control.png",
+      src: "/PrivacyCenter-Control.png",
       alt: "",
       className: "w-[1000px] ",
       style: {
-       marginTop: "30px",
+       //marginTop: "30px",
       },
      }),
      L.jsxs("div", {
